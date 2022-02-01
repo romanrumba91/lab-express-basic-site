@@ -1,9 +1,48 @@
 
 body{
-    background-color: red;
+    
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-items: center;
+    background-image: url(../images/franjas2.png);
+    
+}
 
+h1{
+    text-align: center;
+
+}
+img{
+    height: 300px;
+    width: 250px;
 }
 
 p{
+    text-align: center;
+    font-size: 45px;
+}
+
+#About{
     color: black;
+    margin-right: 320px;
+    font-size: 30px;
+    margin-left: 300px;
+    
+
+}
+
+#Works{
+    color: black;
+    margin-left: 70px;
+    font-size: 30px;
+    margin-right: 150px;
+}
+.logo1{
+
+    margin-right: 300px;
+}
+.logo2{
+
+    margin-left: 300px;
 }

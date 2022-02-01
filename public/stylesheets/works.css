@@ -1,0 +1,14 @@
+body{
+    display: flex;
+    background-color: red;
+    text-align: left;
+    flex-direction: column;
+    
+}
+
+
+p{
+    font-size: 15px;
+
+}
+
